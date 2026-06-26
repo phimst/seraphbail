@@ -9,10 +9,10 @@
     "automation",
     "commonjs"
   ],
-  "homepage": "https://github.com/seraphbail/seraphbail",
+  "homepage": "https://github.com/phimst/seraphbail",
   "repository": {
     "type": "git",
-    "url": "https://github.com/seraphbail/seraphbail.git"
+    "url": "https://github.com/phimst/seraphbail"
   },
   "license": "MIT",
   "main": "lib/index.js",
