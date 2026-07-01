@@ -9,10 +9,10 @@
     "automation",
     "commonjs"
   ],
-  "homepage": "https://github.com/phimst/seraphbail",
+  "homepage": "https://github.com/WhiskeySockets/Baileys/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/phimstl/seraphbail.git"
+    "url": "git@github.com:WhiskeySockets/Baileys.git"
   },
   "license": "MIT",
   "main": "lib/index.js",
